@@ -1,3 +1,10 @@
+
+
 world of quantela
  welcomes everyone
+<<<<<<< HEAD
   time for Internet Of Things
+=======
+
+
+>>>>>>> 7b729934552f9f0228998bbaeeb5e7294c669754
